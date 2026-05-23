@@ -5,3 +5,4 @@ PUT THIS FOLDER INSIDE "steamapps\common\GarrysMod\garrysmod\addons"
 
 new gamemode:
 Schlachtstrike
+(more to come)
